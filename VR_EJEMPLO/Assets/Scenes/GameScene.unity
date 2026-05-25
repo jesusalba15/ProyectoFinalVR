@@ -1162,7 +1162,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 0, g: 0.049409866, b: 0.3773585, a: 1}
+  m_Color: {r: 0, g: 0.037104186, b: 0.274, a: 1}
   m_Intensity: 0.97
   m_Range: 10
   m_SpotAngle: 30
@@ -1437,7 +1437,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.XR.Interaction.Toolkit::UnityEngine.XR.Interaction.Toolkit.Locomotion.Movement.ContinuousMoveProvider
   m_Mediator: {fileID: 1959661938}
-  m_TransformationPriority: 0
+  m_TransformationPriority: 2
   m_MoveSpeed: 10
   m_InAirControlModifier: 0.5
   m_EnableStrafe: 1
