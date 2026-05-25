@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e507d5b4fa61df4a94594f592207703
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223713
+  packageName: Super Casual Shooter
+  packageVersion: 1.1
+  assetPath: Assets/Super Casual Shooter Assets/Materials/BombController_button.mat
+  uploadId: 619778

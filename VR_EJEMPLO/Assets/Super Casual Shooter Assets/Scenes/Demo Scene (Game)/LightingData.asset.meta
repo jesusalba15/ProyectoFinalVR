@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b61065b71446654aaf4e5cf9720efbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223713
+  packageName: Super Casual Shooter
+  packageVersion: 1.1
+  assetPath: Assets/Super Casual Shooter Assets/Scenes/Demo Scene (Game)/LightingData.asset
+  uploadId: 619778

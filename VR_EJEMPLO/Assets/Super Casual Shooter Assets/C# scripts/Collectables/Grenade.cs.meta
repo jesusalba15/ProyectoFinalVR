@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f60ad5e101b792043ba0c9aa8f626e93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223713
+  packageName: Super Casual Shooter
+  packageVersion: 1.1
+  assetPath: Assets/Super Casual Shooter Assets/C# scripts/Collectables/Grenade.cs
+  uploadId: 619778

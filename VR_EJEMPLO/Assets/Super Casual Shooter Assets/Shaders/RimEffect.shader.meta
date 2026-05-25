@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76ec3c047c64b904e910d0dc4eb59de5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223713
+  packageName: Super Casual Shooter
+  packageVersion: 1.1
+  assetPath: Assets/Super Casual Shooter Assets/Shaders/RimEffect.shader
+  uploadId: 619778

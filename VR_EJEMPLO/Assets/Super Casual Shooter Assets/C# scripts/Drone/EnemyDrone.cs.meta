@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 53ccfbc76f057714796da6bdceb12ff0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223713
+  packageName: Super Casual Shooter
+  packageVersion: 1.1
+  assetPath: Assets/Super Casual Shooter Assets/C# scripts/Drone/EnemyDrone.cs
+  uploadId: 619778

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9bc16aa28bb08204b8c67846f9721ee3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223713
+  packageName: Super Casual Shooter
+  packageVersion: 1.1
+  assetPath: Assets/Super Casual Shooter Assets/C# scripts/Player/PlayerHandBob.cs
+  uploadId: 619778
