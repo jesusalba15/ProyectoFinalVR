@@ -12383,9 +12383,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: M1911 Handgun
       objectReference: {fileID: 0}
+    - target: {fileID: 3800741799069190918, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
+      propertyPath: targetTag
+      value: Pistola
+      objectReference: {fileID: 0}
+    - target: {fileID: 3927702549975012389, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0207
+      objectReference: {fileID: 0}
+    - target: {fileID: 3927702549975012389, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.015
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297228367277886615, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7465728547306063280, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
       propertyPath: m_Name
       value: VR STARTER
+      objectReference: {fileID: 0}
+    - target: {fileID: 7465728547306063280, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7847130887981609507, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12426,6 +12446,10 @@ PrefabInstance:
     - target: {fileID: 7847130887981609507, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252377596333444599, guid: 1006b8b4a422f73488e3b01beb26208f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.044
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
