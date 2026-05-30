@@ -5,13 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Pistola
-  - Sangre
+  - Linterna
+  - Libreta
+  - Lupa
+  - Cajas
   - Marcador
-  - Inventario
-  - Bala
-  - Identificacion
-  - Caja1Sellada
-  - Caja2Sellada
   layers:
   - Default
   - TransparentFX
