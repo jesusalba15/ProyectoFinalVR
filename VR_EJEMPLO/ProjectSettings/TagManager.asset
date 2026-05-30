@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Pistola
+  - Sangre
+  - Marcador
+  - Inventario
   layers:
   - Default
   - TransparentFX
