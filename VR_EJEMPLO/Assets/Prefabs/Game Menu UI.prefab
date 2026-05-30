@@ -148,7 +148,6 @@ GameObject:
   - component: {fileID: 4939866205434511730}
   - component: {fileID: 3761767547602277289}
   - component: {fileID: 5276579455495622474}
-  - component: {fileID: 9083330062433176739}
   m_Layer: 5
   m_Name: Quit
   m_TagString: Untagged
@@ -258,21 +257,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &9083330062433176739
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 280915900853211956}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e419a4d4b65dfb94bae6eddedee04926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  clickAudioName: uiclick
-  hoverEnterAudioName: uihoverenter
-  hoverExitAudioName: 
 --- !u!1 &416886102726310074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1194,7 +1178,6 @@ GameObject:
   - component: {fileID: 1830343255982298049}
   - component: {fileID: 3397064465685251395}
   - component: {fileID: 4068093974509706366}
-  - component: {fileID: 1063506408895788663}
   m_Layer: 5
   m_Name: About
   m_TagString: Untagged
@@ -1304,21 +1287,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &1063506408895788663
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2895751058744956589}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e419a4d4b65dfb94bae6eddedee04926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  clickAudioName: uiclick
-  hoverEnterAudioName: uihoverenter
-  hoverExitAudioName: 
 --- !u!1 &2904943645889931906
 GameObject:
   m_ObjectHideFlags: 0
@@ -1467,7 +1435,6 @@ GameObject:
   - component: {fileID: 9051603151400947604}
   - component: {fileID: 7472199999581204665}
   - component: {fileID: 8840761289143628448}
-  - component: {fileID: 2602472473034627374}
   m_Layer: 5
   m_Name: Start
   m_TagString: Untagged
@@ -1577,21 +1544,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &2602472473034627374
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3089639876299362693}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e419a4d4b65dfb94bae6eddedee04926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  clickAudioName: uiclick
-  hoverEnterAudioName: uihoverenter
-  hoverExitAudioName: 
 --- !u!1 &3310762752341559325
 GameObject:
   m_ObjectHideFlags: 0
@@ -3072,7 +3024,6 @@ GameObject:
   - component: {fileID: 5407149582694207240}
   - component: {fileID: 8100861923693271728}
   - component: {fileID: 4848056242719542680}
-  - component: {fileID: 7368463315329806394}
   m_Layer: 5
   m_Name: Options
   m_TagString: Untagged
@@ -3182,21 +3133,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &7368463315329806394
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6549168070451769934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e419a4d4b65dfb94bae6eddedee04926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  clickAudioName: uiclick
-  hoverEnterAudioName: uihoverenter
-  hoverExitAudioName: 
 --- !u!1 &7126267998245944694
 GameObject:
   m_ObjectHideFlags: 0
