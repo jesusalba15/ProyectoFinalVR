@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Super Casual Shooter Assets/Scenes/Demo Scene (Game).unity
-    guid: ffb554a9f53a4e04d894c8a8ff63189f
+    path: Assets/Scenes/VR MENU.unity
+    guid: c4a5c7cd902bf104a86f7cf77995e3f6
+  - enabled: 1
+    path: Assets/Scenes/VR GAME CSI.unity
+    guid: 7759de288f5d4ee449a0ca5e2244944a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8bda9e08b40ba6a49ada6efd97303788, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fd7d0cac0ad0b5946aba434e91fe8c25, type: 2}

@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Pistola
+  - Linterna
+  - Libreta
+  - Lupa
+  - Cajas
+  - Marcador
   layers:
   - Default
   - TransparentFX
