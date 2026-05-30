@@ -8,6 +8,10 @@ TagManager:
   - Sangre
   - Marcador
   - Inventario
+  - Bala
+  - Identificacion
+  - Caja1Sellada
+  - Caja2Sellada
   layers:
   - Default
   - TransparentFX
