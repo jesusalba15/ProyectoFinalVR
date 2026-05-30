@@ -12,6 +12,7 @@ TagManager:
   - Identificacion
   - Caja1Sellada
   - Caja2Sellada
+  - Identificador
   layers:
   - Default
   - TransparentFX
